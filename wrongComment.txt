@@ -1,0 +1,15 @@
+/* Testing comment */
+last */
+/* first
+
+space * /
+/ * space
+
+space* /
+/ *space
+
+/* wrong
+*/ wow
+
+/* someting
+/*

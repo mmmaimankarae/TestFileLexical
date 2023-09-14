@@ -1,0 +1,11 @@
+/* Testing comment */
+
+//* comment //
+// *comment
+
+/* Mine
+    Say
+    Hello
+*/
+
+/* setamal // para */

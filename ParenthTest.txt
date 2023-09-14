@@ -1,0 +1,9 @@
+/* Testing parenth */
+(A + B)
+(A 
+A + B)
+
+A + B;
+;
+
+(A+B);

@@ -1,0 +1,22 @@
+/* Testing keyword */
+if (Hi){
+    newline
+} endif (again) {
+    read
+} else {
+    try
+}
+
+then why
+
+while (x == 13) {
+
+}
+
+do {
+    
+} while (mine.equales("beautiful"))
+
+endwhile
+
+print("Test")

@@ -1,0 +1,11 @@
+/* Testing String */
+"Hi"
+"hello while"
+"1799"
+"1 id * 3 + if"
+
+"\"Testy"
+"\'OK\'"
+
+"Mine line
+"

@@ -1,0 +1,35 @@
+/* Testing integer */
+13
+170
+
++45
++750
+
+-60
+-35
+-60
+
+0
++0
+-0
+
+
+A + B
+-
+*
+if
+then
+id1
+id2
+"Hello World"
+/* This is Comment */
+// Comment
+M+C
+if (A * D)
+D = B + 10
+13
+-35
+-1543+17
+
+"Test String
+String or not"
